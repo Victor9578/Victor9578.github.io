@@ -1,0 +1,34 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jaywxl on Jaywxl</title>
+    <link>https://bl.Jaywxl.tk/</link>
+    <description>Recent content in Jaywxl on Jaywxl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 05 Feb 2021 21:56:57 +0800</lastBuildDate>
+    <atom:link href="https://bl.Jaywxl.tk/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Posts</title>
+      <link>https://bl.Jaywxl.tk/posts/</link>
+      <pubDate>Fri, 05 Feb 2021 21:56:57 +0800</pubDate>
+      
+      <guid>https://bl.Jaywxl.tk/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://bl.Jaywxl.tk/about/</link>
+      <pubDate>Fri, 05 Feb 2021 21:19:37 +0800</pubDate>
+      
+      <guid>https://bl.Jaywxl.tk/about/</guid>
+      <description>&lt;p&gt;#Jay&lt;/p&gt;
+&lt;p&gt;这就是我的 新博客😎&lt;/p&gt;
+&lt;p&gt;contact me:&lt;a href=&#34;https://bl.jaywxl.tk&#34;&gt;Home&lt;/a&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
