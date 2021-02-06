@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on Jaywxl</title>
+    <link>https://bl.Jaywxl.tk/categories/blog/</link>
+    <description>Recent content in blog on Jaywxl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 05 Feb 2021 21:18:46 +0800</lastBuildDate><atom:link href="https://bl.Jaywxl.tk/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>https://bl.Jaywxl.tk/2021/first-post/</link>
+      <pubDate>Fri, 05 Feb 2021 21:18:46 +0800</pubDate>
+      
+      <guid>https://bl.Jaywxl.tk/2021/first-post/</guid>
+      <description>##我的博客又要开始了 今后我会在vscode 来写markdown来更新我的blog 希望可以帮助到各位！！！😁</description>
+    </item>
+    
+  </channel>
+</rss>

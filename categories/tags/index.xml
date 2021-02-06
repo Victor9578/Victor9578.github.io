@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Jaywxl</title>
+    <link>https://bl.Jaywxl.tk/tags/</link>
+    <description>Recent content in Tags on Jaywxl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 05 Feb 2021 21:56:57 +0800</lastBuildDate><atom:link href="https://bl.Jaywxl.tk/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MP4</title>
+      <link>https://bl.Jaywxl.tk/tags/mp4/</link>
+      <pubDate>Fri, 05 Feb 2021 21:56:57 +0800</pubDate>
+      
+      <guid>https://bl.Jaywxl.tk/tags/mp4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>markdown</title>
+      <link>https://bl.Jaywxl.tk/tags/markdown/</link>
+      <pubDate>Fri, 05 Feb 2021 21:18:46 +0800</pubDate>
+      
+      <guid>https://bl.Jaywxl.tk/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

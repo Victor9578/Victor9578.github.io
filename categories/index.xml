@@ -1,28 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Jaywxl</title>
-    <link>https://bl.Jaywxl.tk/categories/</link>
-    <description>Recent content in Categories on Jaywxl</description>
+    <title>Jaywxl on Jaywxl</title>
+    <link>https://bl.Jaywxl.tk/</link>
+    <description>Recent content in Jaywxl on Jaywxl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 05 Feb 2021 21:56:57 +0800</lastBuildDate><atom:link href="https://bl.Jaywxl.tk/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Feb 2021 21:56:57 +0800</lastBuildDate>
+    <atom:link href="https://bl.Jaywxl.tk/" rel="self" type="application/rss+xml" />
+    
     <item>
-      <title>影视站点</title>
-      <link>https://bl.Jaywxl.tk/categories/%E5%BD%B1%E8%A7%86%E7%AB%99%E7%82%B9/</link>
+      <title>Posts</title>
+      <link>https://bl.Jaywxl.tk/posts/</link>
       <pubDate>Fri, 05 Feb 2021 21:56:57 +0800</pubDate>
       
-      <guid>https://bl.Jaywxl.tk/categories/%E5%BD%B1%E8%A7%86%E7%AB%99%E7%82%B9/</guid>
+      <guid>https://bl.Jaywxl.tk/posts/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>blog</title>
-      <link>https://bl.Jaywxl.tk/categories/blog/</link>
-      <pubDate>Fri, 05 Feb 2021 21:18:46 +0800</pubDate>
+      <title>About</title>
+      <link>https://bl.Jaywxl.tk/about/</link>
+      <pubDate>Fri, 05 Feb 2021 21:19:37 +0800</pubDate>
       
-      <guid>https://bl.Jaywxl.tk/categories/blog/</guid>
-      <description></description>
+      <guid>https://bl.Jaywxl.tk/about/</guid>
+      <description>&lt;p&gt;#Jay&lt;/p&gt;
+&lt;p&gt;这就是我的 新博客😎&lt;/p&gt;
+&lt;p&gt;contact me:&lt;a href=&#34;https://bl.jaywxl.tk&#34;&gt;Home&lt;/a&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
     </item>
     
   </channel>
