@@ -1,0 +1,38 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jaywxl on Jaywxl</title>
+    <link>https://bl.Jaywxl.tk/</link>
+    <description>Recent content in Jaywxl on Jaywxl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 17 Feb 2021 13:31:44 +0800</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Posts</title>
+      <link>https://bl.Jaywxl.tk/posts/</link>
+      <pubDate>Wed, 17 Feb 2021 13:31:44 +0800</pubDate>
+      
+      <guid>https://bl.Jaywxl.tk/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://bl.Jaywxl.tk/about/</link>
+      <pubDate>Fri, 05 Feb 2021 21:19:37 +0800</pubDate>
+      
+      <guid>https://bl.Jaywxl.tk/about/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Jay&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;这就是我的 新博客😎&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;strong&gt;contact&lt;/strong&gt; &lt;strong&gt;me&lt;/strong&gt;:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;GitHub:&lt;a href=&#34;https://github.com/Victor9578&#34;&gt;Victor&lt;/a&gt;&lt;br&gt;
+&lt;!-- raw HTML omitted --&gt;Email:&lt;a href=&#34;mailto:2410512860@qq.com&#34;&gt;2410512860@qq.com&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
