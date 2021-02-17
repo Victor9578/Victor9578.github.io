@@ -27,10 +27,11 @@
 &lt;p&gt;这就是我的 新博客😎&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;strong&gt;contact&lt;/strong&gt; &lt;strong&gt;me&lt;/strong&gt;:&lt;/strong&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;GitHub:&lt;a href=&#34;https://github.com/Victor9578&#34;&gt;Victor&lt;/a&gt;&lt;br&gt;
-&lt;!-- raw HTML omitted --&gt;Email:&lt;a href=&#34;mailto:2410512860@qq.com&#34;&gt;2410512860@qq.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iconfont icon-github&gt;GitHub:&lt;a href=&#34;https://github.com/Victor9578&#34;&gt;Victor&lt;/a&gt;&lt;br&gt;
+&lt;iconfont icon-email&gt;Email:&lt;a href=&#34;mailto:2410512860@qq.com&#34;&gt;2410512860@qq.com&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;!-- raw HTML omitted --&gt;
+&lt;!--
+
 </description>
     </item>
     
