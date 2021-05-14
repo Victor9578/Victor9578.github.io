@@ -2,9 +2,9 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>https://bl.Jaywxl.tk/categories/</loc>
+      <loc>https://bl.Jaywxl.tk/categories/blog/</loc>
       
-      <lastmod>2021-02-17T13:31:44+08:00</lastmod>
+      <lastmod>2021-04-09T10:21:04+08:00</lastmod>
       
       
       
@@ -12,9 +12,19 @@
     </url>
   
     <url>
-      <loc>https://bl.Jaywxl.tk/tags/daka/</loc>
+      <loc>https://bl.Jaywxl.tk/categories/</loc>
       
-      <lastmod>2021-02-17T13:31:44+08:00</lastmod>
+      <lastmod>2021-04-09T10:21:04+08:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://bl.Jaywxl.tk/2021/forth/</loc>
+      
+      <lastmod>2021-04-09T10:21:04+08:00</lastmod>
       
       
       
@@ -24,7 +34,7 @@
     <url>
       <loc>https://bl.Jaywxl.tk/</loc>
       
-      <lastmod>2021-02-17T13:31:44+08:00</lastmod>
+      <lastmod>2021-04-09T10:21:04+08:00</lastmod>
       
       
       
@@ -34,7 +44,7 @@
     <url>
       <loc>https://bl.Jaywxl.tk/posts/</loc>
       
-      <lastmod>2021-02-17T13:31:44+08:00</lastmod>
+      <lastmod>2021-04-09T10:21:04+08:00</lastmod>
       
       
       
@@ -43,6 +53,26 @@
   
     <url>
       <loc>https://bl.Jaywxl.tk/tags/</loc>
+      
+      <lastmod>2021-04-09T10:21:04+08:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://bl.Jaywxl.tk/tags/%E5%9B%BE%E5%BA%8A/</loc>
+      
+      <lastmod>2021-04-09T10:21:04+08:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://bl.Jaywxl.tk/tags/daka/</loc>
       
       <lastmod>2021-02-17T13:31:44+08:00</lastmod>
       
@@ -105,16 +135,6 @@
       <loc>https://bl.Jaywxl.tk/about/</loc>
       
       <lastmod>2021-02-05T21:19:37+08:00</lastmod>
-      
-      
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://bl.Jaywxl.tk/categories/blog/</loc>
-      
-      <lastmod>2021-02-05T21:18:46+08:00</lastmod>
       
       
       
